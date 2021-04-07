@@ -6,4 +6,4 @@ Simple, light-weight batch script for windows that brings **Linux commands to wi
 * Run the file **main.bat** as administrator and select install option
 
 ### Supported Commmands
-You can find the update commands list [here](https://github.com/MithunKarthick/). I will keep on updating this list as time permits. Feel free to create pulls.
+You can find the update commands list [here](https://github.com/MithunKarthick/linux-like/blob/master/supportedComments.md). I will keep on updating this list as time permits. Feel free to create pulls.

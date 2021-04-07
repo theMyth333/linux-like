@@ -1,4 +1,26 @@
-ls=dir /B $1
-np=notepad $1
+;==========================================
+;=: linux-like v0.1.0
+;=: Created by Mithun under GNU Licence
+;==========================================
+;=
+;= CHANGING THE FOLLOWING ENTRIES MAY HAVE UNDESIRABLE EFFECTS
+;= Add Custom values at the end
+
+ls=dir /B
 touch=$>> $1 2>nul
 clear=cls
+pwd=chdir
+cat=type $1
+ifconfig=ipconfig
+cp=copy $1 $2 
+mv=move $1 $2
+rm=del $1 $2
+
+;========== your custom commands here <<==========
+
+;example, the below command np opens notepad for the file captured as parameter $1
+
+np=notepad $1
+
+;===> END <===
+;=
