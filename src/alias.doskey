@@ -1,0 +1,4 @@
+ls=dir /B $1
+np=notepad $1
+touch=$>> $1 2>nul
+clear=cls
