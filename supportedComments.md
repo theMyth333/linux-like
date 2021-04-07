@@ -3,3 +3,9 @@
 * ls
 * touch
 * clear
+* pwd 
+* cat 
+* ifconfig
+* cp
+* mv
+* rm
